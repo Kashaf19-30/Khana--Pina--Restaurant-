@@ -67,11 +67,6 @@ You can use the Live Server extension in VS Code:
 - Select Open with Live Server
 - The website will open in your browser.
 
-## Screenshots
-
-!![Khana Pina Homepage](screenshots/Khana-Pina-Homepage.png)
-
-
 ## 📂 Project Structure
  
 ```text
